@@ -1,0 +1,13 @@
+{
+  "repo_name": "AR-LENS-NGGYUG",
+  "owner": "patra3859-wq",
+  "created_at": "2026-04-20T13:22:47.441Z",
+  "scenes": [
+    {
+      "scene_id": "01",
+      "target_image": "https://raw.githubusercontent.com/patra3859-wq/AR-LENS-NGGYUG/main/01.jpg",
+      "target_mind": "https://raw.githubusercontent.com/patra3859-wq/AR-LENS-NGGYUG/main/01.mind",
+      "ar_video": "https://raw.githubusercontent.com/patra3859-wq/AR-LENS-NGGYUG/main/01.mp4"
+    }
+  ]
+}
